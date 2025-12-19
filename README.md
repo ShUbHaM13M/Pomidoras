@@ -9,6 +9,6 @@ cd pomidoras
 make
 ./pomidoras
 
-Or build for windows using mingw
+# Or build for windows using mingw
 make build_windows
 ```
